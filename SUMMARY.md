@@ -1,7 +1,6 @@
 # Summary
 
 * [Microsoft](README.md)
-* [Microsoft](microsoft.md)
 * [Microsoft DOS](microsoft_dos\README.md)
   * [CMD](microsoft_dos\cmd.md)
   * [DOS internal commands](microsoft_dos\dos_internal_commands\README.md)
