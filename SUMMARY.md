@@ -1,6 +1,6 @@
 # Summary
 
-* [MS](README.md)
+* [Microsoft](README.md)
 * [Microsoft](microsoft.md)
 * [Microsoft DOS](microsoft_dos\README.md)
   * [CMD](microsoft_dos\cmd.md)
@@ -92,3 +92,4 @@
 * [Separating 32-bit and 64-bit Libraries ](separating_32-bit_and_64-bit_libraries.md)
 * [System32 and SysWOW64 ](system32_and_syswow64.md)
 * [Restore Windows Store](restore_windows_store.md)
+
