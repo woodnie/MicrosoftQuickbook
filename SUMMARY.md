@@ -36,6 +36,8 @@
   * [System Center](windows_server_2003\system_center.md)
   * [VSS](windows_server_2003\vss.md)
 * [Windows Server 2008](windows_server_2008.md)
+* [Windows Server 2012](windows_server_2016/windows-server-12.md)
+  * [Gui Recover](windows_server_2016/windows-server-12/gui-recover.md)
 * [Windows Server 2016](windows_server_2016.md)
 * [Windows Services](windows_services.md)
 * [PowerShell5.1](powershell51\README.md)
